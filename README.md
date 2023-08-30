@@ -9,7 +9,7 @@ Notes, suggestions and helpful scripts that I often need during fresh installati
 ### Firefox Developer Edition
 ### 1Password
 Github, create new ssh key, directly with 1Password then:
-https://developer.1password.com/docs/ssh/git-commit-signing/
+https://developer.1password.com/docs/ssh/git-commit-signing/ ; there might be a better doc, you need to add a read/write key (warp <-> 1password integration for ssh)
 
 Settings -> privacy : check for vulnerable passwords
 Appearance -> always show catgegories sidebar
@@ -21,6 +21,7 @@ Turn on FileVault !
 ### Whatsapp
 ### IDEA Toolbox
 ### Warp || iTerm2
+Integrate Warp with IDE https://docs.warp.dev/features/integrations-and-plugins#jetbrains-ides
 ### Zap
 ### Postman || Obsidian
 Replace Finder?
