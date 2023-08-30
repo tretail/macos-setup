@@ -1,3 +1,6 @@
+### Privacy & Security -> Profiles
+You may export macos configuration. Is it safe, does it contain sensible information?
+
 # macos-setup
 Notes, suggestions and helpful scripts that I often need during fresh installation
 
@@ -5,13 +8,23 @@ Notes, suggestions and helpful scripts that I often need during fresh installati
 
 ### Firefox Developer Edition
 ### 1Password
+Github, create new ssh key, directly with 1Password then:
+https://developer.1password.com/docs/ssh/git-commit-signing/
+
+Settings -> privacy : check for vulnerable passwords
+Appearance -> always show catgegories sidebar
+General -> Select default vault
+
 ### Modifier Keys vs Karabiner
+### Sec
+Turn on FileVault !
 ### Whatsapp
 ### IDEA Toolbox
 ### Warp || iTerm2
 ### Zap
 ### Postman || Obsidian
 Replace Finder?
+
 
 ### brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -26,3 +39,13 @@ https://www.reddit.com/r/zsh/comments/qtehjs/changing_the_location_of_configurat
 $WORKSPACES
 
 ## warp
+
+## Finder -> settings
+### General
+- Show hard drives, connected servers
+- do not show CDs,DVDs,ipod
+- New Finder windows shows $HOME
+### Sidebar
+- configure sidebar
+### Advanced
+- advanced: when performing a search, current folder
