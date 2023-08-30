@@ -20,6 +20,7 @@ General -> Select default vault
 Turn on FileVault !
 ### Whatsapp
 ### IDEA Toolbox
+config file for intellij ?
 ### Warp || iTerm2
 Integrate Warp with IDE https://docs.warp.dev/features/integrations-and-plugins#jetbrains-ides
 ### Zap
