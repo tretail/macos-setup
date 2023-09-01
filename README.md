@@ -36,6 +36,13 @@ Replace Finder?
     eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
+### sdkman
+https://sdkman.io/install
+```
+export SDKMAN_DIR="$HOME/.userconfig/sdkman" && curl -s "https://get.sdkman.io" | bash
+source "$HOME/.userconfig/sdkman/bin/sdkman-init.sh"
+```
+
 https://www.reddit.com/r/zsh/comments/qtehjs/changing_the_location_of_configuration_files/?rdt=35082
 
 $WORKSPACES
@@ -51,3 +58,6 @@ $WORKSPACES
 - configure sidebar
 ### Advanced
 - advanced: when performing a search, current folder
+
+### - secu
+FileVault
